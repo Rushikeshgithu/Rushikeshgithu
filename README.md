@@ -41,13 +41,13 @@ My open-source contributions, activity, and growth across GitHub 👇
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 ### 📈 GitHub Summary
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikeshgithu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&cache_seconds=21600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikeshgithu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&cache_seconds=0)
 
 ### 🧩 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikeshgithu&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikeshgithu&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=0)
 
 ### 📊 Activity Graph
-[![Rushikesh’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushikeshgithu&theme=tokyo-night&hide_border=true&area=true&radius=8)](https://github.com/Rushikeshgithu)
+[![Rushikesh’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushikeshgithu&theme=tokyo-night&hide_border=true&area=true&radius=8&cache_seconds=0)](https://github.com/Rushikeshgithu)
 
 </div>
 
