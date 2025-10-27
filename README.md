@@ -41,7 +41,7 @@ My open-source contributions, activity, and growth across GitHub 👇
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 ### 📈 GitHub Summary
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikeshgithu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&cache_seconds=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikeshgithu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&cache_seconds=1800&t=20240101)
 
 ### 🧩 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikeshgithu&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=0)
