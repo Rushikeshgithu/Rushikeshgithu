@@ -8,7 +8,7 @@
 
 ## 🚀 Current Focus & Projects
 
-### ☁️ [Highly Available Web App on AWS](https://github.com/Rushikeshgithu/AWS-Practitioner/blob/main/distributed%20Pizza%20ordering%20System%20On%20AWS.pdf)
+### ☁️ [Highly Available Web App on AWS](https://github.com/Rushikeshgithu/AWS-Practitioner/blob/main/Load%20Balancing%20using%20AWS.pdf)
 Designed and deployed a fault-tolerant web application using **AWS Application Load Balancer (ALB)** distributing traffic across EC2 instances in multiple Availability Zones. Implemented secure VPC architecture, Launch Templates, and health checks for auto-recovery.
 
 🔧 *Tech Stack:*  
