@@ -8,7 +8,7 @@
 
 ## 🚀 Current Focus & Projects
 
-### ☁️ [Highly Available Web App on AWS](https://github.com/YOUR_GITHUB_USERNAME/aws-ha-webapp)  
+### ☁️ [Highly Available Web App on AWS](https:[//github.com/YOUR_GITHUB_USERNAME/aws-ha-webapp](https://github.com/Rushikeshgithu/AWS-Practitioner/blob/main/distributed%20Pizza%20ordering%20System%20On%20AWS.pdf))  
 Designed and deployed a fault-tolerant web application using **AWS Application Load Balancer (ALB)** distributing traffic across EC2 instances in multiple Availability Zones. Implemented secure VPC architecture, Launch Templates, and health checks for auto-recovery.
 
 🔧 *Tech Stack:*  
@@ -20,7 +20,7 @@ Designed and deployed a fault-tolerant web application using **AWS Application L
 
 ---
 
-### 🍕 [Distributed Pizza Ordering System](https://github.com/YOUR_GITHUB_USERNAME/pizza-ordering-aws)  
+### 🍕 [Distributed Pizza Ordering System](https:https://github.com/Rushikeshgithu/AWS-Practitioner/blob/main/distributed%20Pizza%20ordering%20System%20On%20AWS.pdf)  
 Built an event-driven microservice simulating real-world e-commerce using **AWS Lambda, API Gateway, SQS, and EC2**. Frontend hosted on EC2, backend workers process orders asynchronously from queue — perfect for learning decoupled architectures.
 
 🔧 *Tech Stack:*  
@@ -89,7 +89,7 @@ My open-source contributions, activity, and growth across GitHub 👇
 
 ## 📫 Let’s Connect!
 
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rushikeshlondhe/)  
 🐙 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
 📧 rushikeshlondhe942@gmail.com  
 📱 +91 8779524372
