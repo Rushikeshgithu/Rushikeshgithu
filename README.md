@@ -37,11 +37,6 @@ My open-source contributions, activity, and growth across GitHub 👇
 
 <div align="left">
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rushikeshgithu&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-
-### 📈 GitHub Summary
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushikeshgithu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true)](https://github.com/Rushikeshgithu)
 
 ### 🧩 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikeshgithu&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=0)
